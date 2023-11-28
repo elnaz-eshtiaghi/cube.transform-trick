@@ -1,8 +1,8 @@
-# Accordion-trick.10(transform)
+# Cube.transform-trick
 **If you have a lot of information to display on your site, why don't you use my project**
 
 ![Screenshot_2023_10_29-4](https://github.com/elnaz-eshtiaghi/trick.10-transform-/assets/146030206/77494f1c-ad61-478e-a82e-c951765f53b8)
-- [Demo Project]( https://elnaz-eshtiaghi.github.io/trick.10-transform-/)
+- [Demo Project]( https://elnaz-eshtiaghi.github.io/cube.transform-trick/)
 
 - Developed by elnaz eshtiaghi
 
